@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header-container {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    font-size: 18px;
+    padding: 20px 0; 
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header {
+    width: 900px;
+    display: flex;
+    
+    justify-content: space-between;
+    
+}
+
+.logo {
+    font-size: 24px;
+    color: #F0FAF8;
+    font-weight: bolder;
+}
+
+.link1 {
+    margin-left: auto;
+}
+
+.link2, .link3 {
+    margin-left: 20px;
+}
+
+.body-section-1 {
+    
+    border: 1px solid;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
